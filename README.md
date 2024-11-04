@@ -38,4 +38,4 @@ Here are some screenshots of my past work. Each represents a unique campaign typ
 ![Campaign Screenshot 3](screenshot3.jpg)
 
 ## Watch My Portfolio Overview
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtube.com/shorts/mvdFLKFq_zI?si=kO32jVN9_fuCMoWZ)
